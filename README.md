@@ -10,9 +10,6 @@ This project is a creatively designed, responsive Halloween-themed website. It f
 ## 📂 Project Structure
 ![image](https://github.com/user-attachments/assets/45d4dac1-ea87-4613-8cb9-105f333dd3f0)
 
-📸 Preview
-
-
 ## 🚀 How to Run the Project
 - **Clone the repository:**
 
